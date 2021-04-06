@@ -1,0 +1,12 @@
+name: UnescoShiny
+title: UnescoShiny
+username:
+account: syabaruddinmalik
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3915568
+bundleId: 4437121
+url: https://syabaruddinmalik.shinyapps.io/UnescoShiny/
+when: 1617711330.37739
+asMultiple: FALSE
+asStatic: FALSE
